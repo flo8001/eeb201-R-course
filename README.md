@@ -1,5 +1,7 @@
 ### EEB 201, Fall 2025
 
+Student: Flo Li
+
 # Introduction to R for Ecology and Evolutionary Biology
 
 
