@@ -24,18 +24,18 @@ Pre-course assignment: [install necessary programs!](https://github.com/stepfani
 
 ### Week 1 - Introduction to RStudio and GitHub
 Pre-class reading: [Why learn R?](https://datacarpentry.github.io/R-ecology-lesson/introduction-r-rstudio.html#why-learn-r); [Why Git? Why GitHub? 1.1-1.5](https://happygitwithr.com/big-picture); if you're totally new to R, practice with [exercise 2.1](https://stat545.com/r-basics.html) <br>
-Slides: <br> 
+Slides: [Week 1 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week1-slides.pdf) <br> 
 Problem set: [Week 1 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md) <br>
 
 ### Week 2 - Making figures with `ggplot2`
-Pre-class reading: <br>
-Slides: <br> 
-Problem set: <br>
+Pre-class reading: [Quarto 28.1-28.2](https://r4ds.hadley.nz/quarto.html#quarto-basics); [Introduction to `ggplot2`](https://ggplot2.tidyverse.org/articles/ggplot2.html) <br>
+Slides: [Week 2 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week2-slides.pdf) <br> 
+Problem set: [Week 2 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week2_PS.md) <br>
 
 ### Week 3 - Data types and structures
-Pre-class reading: <br>
+Pre-class reading: An Introduction to R [Section 3.1](https://intro2r.com/data-types.html) and [Section 3.2](https://intro2r.com/data-structures.html) <br>
 Slides: <br> 
-Problem set: <br>
+Problem set: [Week 3 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week3_PS.md) <br>
 
 ### Week 4 - Data wrangling with `dplyr` part 1
 Pre-class reading: <br>
